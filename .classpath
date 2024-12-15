@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-23">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/ineva/INM/Personal/Trabajo/00-Educación - CM/10-Curso 2024-2025/03-Entornos Desarrollo - DAM1/000-Exámenes/1ªEvaluación/ra2/libreria_examen_19112024.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
