@@ -12,7 +12,7 @@ public class ClasePrincipalContinente {
 	public static void main(String[] args) {
 		String iniciales = args[0];
 		GestorContinentes gestor = new GestorContinentes();
-
+ 
 		gestor.imprimirInformacionContinente(iniciales);
 	} 
 
