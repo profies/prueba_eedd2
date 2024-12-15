@@ -14,6 +14,6 @@ public class ClasePrincipalContinente {
 		GestorContinentes gestor = new GestorContinentes();
 
 		gestor.imprimirInformacionContinente(iniciales);
-	}
+	} 
 
 }
